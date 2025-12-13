@@ -8,4 +8,4 @@ FILE SUMMARY:
 extractdata.py -- extract the data from the website
 cleandata.py -- cleaned and reformatted the data
 
-jupyter/make_graph.ipynb -- process the data using pySpark
+jupyter/make_by_state.ipynb -- process the data from being organized per year to being organized per state
