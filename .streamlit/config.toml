@@ -1,0 +1,8 @@
+[theme]
+base="light"
+
+primaryColor="#4F46E5"      # indigo
+backgroundColor="#F8FAFC"   # very light gray
+secondaryBackgroundColor="#FFFFFF"
+textColor="#0F172A"         # slate
+font="sans serif"
